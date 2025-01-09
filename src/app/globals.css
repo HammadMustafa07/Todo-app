@@ -35,7 +35,3 @@ body {
 input {
   box-shadow: 0 4px 6px rgba(0, 255, 94, 0.8); /* Custom green shadow */
 }
-
-.bg {
-   background-color: rgb(13, 116, 0);
-}
