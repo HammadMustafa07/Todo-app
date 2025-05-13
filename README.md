@@ -1,6 +1,6 @@
 # To-Do App
 
-A simple and interactive To-Do app built using **Next.js**, **HTML**, **CSS**, and **TypeScript**. This app allows users to add, mark as completed, and delete tasks, offering a smooth and responsive user experience.
+A simple and interactive To-Do app built using **Next.js**, **HTML**, **CSS**, and **TypeScript**. This app allows users to add, and delete tasks, offering a smooth and responsive user experience.
 
 ## Features
 
